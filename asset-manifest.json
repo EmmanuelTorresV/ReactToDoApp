@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/ReactToDoApp/static/css/main.d4f63616.css",
+    "main.js": "/github.io/ReactToDoApp/static/js/main.fdeadfb0.js",
+    "index.html": "/github.io/ReactToDoApp/index.html",
+    "static/media/delete.svg": "/github.io/ReactToDoApp/static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/github.io/ReactToDoApp/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.d4f63616.css.map": "/github.io/ReactToDoApp/static/css/main.d4f63616.css.map",
+    "main.fdeadfb0.js.map": "/github.io/ReactToDoApp/static/js/main.fdeadfb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f63616.css",
+    "static/js/main.fdeadfb0.js"
+  ]
+}
